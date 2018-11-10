@@ -1,0 +1,5 @@
+# Files to ignore from source control #
+target/
+.settings/
+.classpath
+.project
